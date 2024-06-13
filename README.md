@@ -8,3 +8,4 @@ console.log(beasts.indexOf('bison')); // *
 console.log(beasts.indexOf('bison', 2)); // **
 console.log(beasts.indexOf('giraffe')); // ***
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
